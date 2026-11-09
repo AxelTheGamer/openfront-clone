@@ -1,2 +1,2 @@
 # openfront-clone
-OpenFront-inspired landing page clone
+OpenFront-inspired browser strategy clone with a playable match screen and working action buttons.
